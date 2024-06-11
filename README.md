@@ -2,6 +2,11 @@
 
 An starting point I would use to develop Express Apps using HTMX and TS.  
 
+## Run it
+1. Run `node server.ts`
+2. Open `index.html` in the Browser, and click the button ;)
+
+## Little Anecdote
 I spent a couple of hours trying to set up a simple page using HTMX without any success, turns out the error was on the console and I didn't realized for a good time:  
 
 ```
